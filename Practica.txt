@@ -1,0 +1,26 @@
+ Instituto Tecnologico de Culiacan
+
+		Fundamentos de Ingeniera en Software
+
+Ventas en Linea
+
+Fecha:05 de Octubre de 2015
+
+Integrantes:
+Rodriguez Sanchez Guadalupe Yamileth
+Sanchez Arreola Fernando
+Martinez Roldan Natanael
+
+
+
+
+Requisitos Funcionales
+RF01: El sistema debe permitir consultar las diferentes categorias o tipo de ropa que existe en la tienda las cuales podran aparecer en submenus y asi podra el cliente seleccionar la categoria que desee.
+RF02:El sistema debe permitir mostrar alguna imagen o los detalles de cada articulo ya sea la marca ,el color, talla , accesorios y si esta en existencia dicho articulo.
+RF03:El sistema debe permitir mostrar imagenes con los diferentes modelos de ropa de la temporada que sigue.
+RF04:El sistema debe permitir  mostrar el historial del cliente con las compras que a realizado con fecha, hora, cantidad de articulos y clave del articulo.
+RF05:El sistema debe permitir mostrar los descuentos que todos los articulos que se vendan en la tienda.
+RF06:El sistema debe permitir mostrar descuento si se realizo una compra a mayoreo.
+RF07:El sistema debe permitir que el cliente obtenga un carrito de compras en el cual se pueden ingresar ,eliminar y visualizar las compras que desea el cliente realizar.
+RF08:El sistema debe permitir que al momento de realizar la compra y tu realizes el pago con tarjeta de credito se pueda mandar un mensaje a tu celular para comprobar que si se realizo la compra.
+RF09:El sistema debe permitir que exista mucha seguridad al momento de realizar el pago con tu tarjeta de credito.
