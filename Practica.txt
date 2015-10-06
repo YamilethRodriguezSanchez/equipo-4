@@ -24,3 +24,10 @@ RF06:El sistema debe permitir mostrar descuento si se realizo una compra a mayor
 RF07:El sistema debe permitir que el cliente obtenga un carrito de compras en el cual se pueden ingresar ,eliminar y visualizar las compras que desea el cliente realizar.
 RF08:El sistema debe permitir que al momento de realizar la compra y tu realizes el pago con tarjeta de credito se pueda mandar un mensaje a tu celular para comprobar que si se realizo la compra.
 RF09:El sistema debe permitir que exista mucha seguridad al momento de realizar el pago con tu tarjeta de credito.
+RF10:El sistema debe permitir cancelar la compra realizada en un determinado tiempo.
+
+RNF01: El sistema debe permitir el acceso a multiples usuarios.
+RNF02: El sistema debe estar disponible las 24 hr.
+RNF03: El sistema debe poder usarse en chrome, firefox, opera e Internet explorer.
+RNF04: El sistema debera terner un control de quien compra y quien vende.
+RNF05: El sistema debe permitir ver que ventas se han realizado en determinada fecha.
